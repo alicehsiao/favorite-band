@@ -1,6 +1,6 @@
 .sidebar {
-  float: right;
-  width: 40%;
+  float: left;
+  width: 30%;
   background-color: #B0C4DE;
   color: #0000CD;
 }
@@ -12,4 +12,12 @@ h1 {
 h2 {
   text-align: center;
   font-style: italic;
+}
+
+img {
+  float: right;
+  border-radius: 20px;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 300px;
 }
