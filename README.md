@@ -1,6 +1,6 @@
 # Favorite Band: Akdong Musician
 
-#### A website for my favorite bang, 1/17/18
+#### A website for my favorite band, 1/17/18
 
 #### By Alice Hsiao
 
@@ -14,7 +14,7 @@ No Setup Required.
 
 ## Known Bugs
 
-No Known Bugs. 
+No Known Bugs.
 
 ## Support and contact details
 
