@@ -3,6 +3,9 @@
   width: 30%;
   background-color: #B0C4DE;
   color: #0000CD;
+  border: 3px solid teal;
+  padding: 8px;
+  margin: 30px;
 }
 
 h1 {
@@ -18,6 +21,6 @@ img {
   float: right;
   border-radius: 20px;
   border: 1px solid #ddd;
-  padding: 5px;
+  padding: 20px;
   width: 300px;
 }
